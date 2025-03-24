@@ -82,3 +82,4 @@ function completeRide(uint _rideId) public {
     emit RideCompleted(_rideId);
 }
 }
+
